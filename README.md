@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## My name is Sofia, I'm a student, and I'm currently learning how to code ⚡
 <!--
 **ssfabregat/ssfabregat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
